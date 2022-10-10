@@ -1,0 +1,4 @@
+[ise.Xilinx]
+name = "ISE"
+desc = "Integrated Synthesis Environment"
+more = "A discontinued software tool from Xilinx for synthesis and analysis of HDL designs, which primarily targets development of embedded firmware for Xilinx FPGA and CPLD integrated circuit (IC) product families. It was succeeded by Xilinx Vivado"
