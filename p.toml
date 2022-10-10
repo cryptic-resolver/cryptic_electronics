@@ -1,0 +1,7 @@
+[pcb]
+name = "PCB"
+desc = "Printed Circuit Board"
+
+[pcba]
+name = "PCBA"
+desc = "Printed Circuit Board Assembly"
