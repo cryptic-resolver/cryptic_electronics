@@ -1,0 +1,4 @@
+[tht.PCB]
+name = "THT"
+desc = "Through-Hole Technology"
+see = 'SMT'

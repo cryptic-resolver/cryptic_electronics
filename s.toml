@@ -1,0 +1,4 @@
+[smt.PCB]
+name = "SMT"
+desc = "Surface-Mount Technology"
+see = 'THT'
