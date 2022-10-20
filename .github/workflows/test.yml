@@ -1,4 +1,4 @@
-name: test-dict-electronics
+name: test-dict
 
 on: [push, pull_request]
 
