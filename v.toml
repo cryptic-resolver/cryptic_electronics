@@ -1,0 +1,3 @@
+[vcc]
+name = "Vcc"
+desc = "Voltage at the Common Collector"
