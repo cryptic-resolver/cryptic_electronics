@@ -1,3 +1,8 @@
 [mcb]
 name = "MCB"
 desc = "Miniature Circuit Breaker"
+
+[msp430]
+name = "MSP430"
+desc = "TI mixed-signal microcontroller family"
+more = "First introduced on 14 February 1992. Built around a 16-bit CPU"
